@@ -1,0 +1,6 @@
+bubble n2 
+insertion n2 
+selection n2 
+merge n logn 
+quick n logn
+heap n logn
